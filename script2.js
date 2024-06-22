@@ -10,6 +10,7 @@ function factorial(number){
     console.log(c)
 }
 
+
 factorial(a)
 
 
